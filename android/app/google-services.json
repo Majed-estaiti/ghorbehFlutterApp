@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019582155863",
+    "firebase_url": "https://ghorbehflutter-a4a45-default-rtdb.firebaseio.com",
+    "project_id": "ghorbehflutter-a4a45",
+    "storage_bucket": "ghorbehflutter-a4a45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019582155863:android:c6dbb57c3fcba9c4ec6712",
+        "android_client_info": {
+          "package_name": "com.majed.ghorbehbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019582155863-smunnl6c98jqij3p1dr6svmf1vet97t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDh433hhgFqSePTID5CN-5m4xpTy76dog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019582155863-smunnl6c98jqij3p1dr6svmf1vet97t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
